@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Model
+comment1.params=
+comment1.target=Model()
+comment2.params=
+comment2.target=void\ loadImages()
+comment3.params=
+comment3.target=void\ initVariables()
+comment4.params=
+comment4.target=void\ initGame()
+comment5.params=
+comment5.target=void\ initLevel()
+comment6.params=
+comment6.target=void\ continueLevel()
+comment7.params=e
+comment7.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=8
